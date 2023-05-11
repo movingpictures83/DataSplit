@@ -1,0 +1,5 @@
+csvfile	otu_table_normalized.csv
+train	train_data.csv
+test	test_data.csv
+trainsize	17
+testsize	4
